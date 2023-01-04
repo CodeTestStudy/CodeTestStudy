@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0e42e73-2529-4349-b30d-c3d040e195e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeTest-study.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eunbyeol/week_1/1-1_크기가 작은 부분 문자열.java" beforeDir="false" afterPath="$PROJECT_DIR$/eunbyeol/week_1/D1_1_크기가 작은 부분 문자열.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eunbyeol/week_1/D1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/eunbyeol/week_1/D1_2_테이블 해시 함수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/크기가작은부분문자열.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/가장 가까운 같은 글자.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/yunju/week_1/가장 가까운 같은 글자.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/귤 고르기.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/yunju/week_1/귤 고르기.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/디펜스게임.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/yunju/week_1/디펜스게임.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/명예의 전당 (1).cpp" beforeDir="false" afterPath="$PROJECT_DIR$/yunju/week_1/명예의 전당 (1).cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/문자열 나누기.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/yunju/week_1/문자열 나누기.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/점 찍기.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/yunju/week_1/점 찍기.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/테이블해시함수.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/yunju/week_1/테이블해시함수.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +39,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/yunju/week_1" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.idea" />
     </key>

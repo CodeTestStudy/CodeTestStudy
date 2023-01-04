@@ -14,15 +14,20 @@
   + 한 주 동안 진행한 스터디에 대해 피드백을 주고 받는다.
   + 공부에 도움이 됐던 정보(블로그, 유튜브 영상 등)를 공유해도 좋다.
 
-## 📚 프로그래머스 문제 링크
-+ [Level 1](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=1)
-+ [Level 2](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=2)
+## 📚 문제 링크
++ programmers [Level 1](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=1)
++ programmers [Level 2](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=2)
++ [softeer](https://softeer.ai/practice/index.do)
 
 ## 🗓 일정표
-|     |              Level 1             |                 Level 2                 |
-|:---:|:--------------------------------:|:---------------------------------------:|
-| 1-1 |      크기가 작은 부분 문자열     |             테이블 해시 함수            |
-| 1-2 | 조건에 맞는 도서 리스트 출력하기 | 조건에 맞는 도서와 저자 리스트 출력하기 |
-| 1-3 |       가장 가까운 같은 글자      |               디펜스 게임               |
-| 1-4 |           문자열 나누기          |                 점 찍기                 |
-| 1-5 |          명예의 전당 (1)         |                귤 고르기                |
+|     |                             문제 이름                             | 문제 출처 | done |
+|:---:|:-----------------------------------------------------------------:|:---------:|:----:|
+| 1-1 |             크기가 작은 부분 문자열, 테이블 해시 함수             |     PG    |   ✔️  |
+| 1-2 |                 가장 가까운 같은 글자, 디펜스 게임                |     PG    |   ✔️  |
+| 1-3 |                       문자열 나누기, 점 찍기                      |     PG    |   ✔️  |
+| 1-4 |                     명예의 전당 (1), 귤 고르기                    |     PG    |   ✔️  |
+| 2-1 |            금고털이, 주행거리 비교하기, 근무 시간, A+B            |  softeer  |      |
+| 2-2 | 성적 평가, 업무 처리, 거리 합 구하기, 통근버스 출발 순서 검증하기 |  softeer  |      |
+| 2-3 | 슈퍼컴퓨터 클러스터, 플레이페어, 8단 변속기, 장애물 인식 프로그램 |  softeer  |      |
+| 2-4 |   기사단원의 무기, 과일 장수, 숫자 카드 나누기, 우박수열 정적분   |     PG    |      |
+| 2-5 |     푸드 파이트 대회, 햄버거 만들기, 롤케이크 자르기, 택배상자    |     PG    |      |
